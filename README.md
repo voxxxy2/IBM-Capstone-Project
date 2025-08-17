@@ -8,12 +8,15 @@ Dengan memanfaatkan IBM Granite, saya dapat membangun aplikasi ini secara sistem
 ---
 
 ## ✨ Fitur Utama
-- Membuat, mengedit, dan menghapus catatan  
-- Menambahkan tag & pencarian cepat  
-- Menandai catatan favorit (pinned notes)  
-- Tampilan grid/list yang dapat diubah  
-- Ringan, cepat, dan responsif di berbagai perangkat  
-- Data tersimpan secara **offline-first** di localStorage (browser)  
+- CRUD catatan (Markdown preview)
+- Pencarian & tag, ⭐ favorite, 📌 pinned
+- Grid/List toggle
+- Trash (restore/empty)
+- Ekspor JSON/CSV & Impor JSON
+- Dark mode, animasi greeting + confetti
+- Widget cuaca (Open-Meteo)
+- Reminder (Notification API)
+- PWA: installable + offline (service worker, manifest) 
 
 ---
 
